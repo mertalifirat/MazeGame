@@ -1,18 +1,18 @@
-Mert Ali Firat
-2380426
+# CENG443 MazeGame with Object-Oriented Programming Principles
 
-The program is compiled and runned over JDK 19 version.
+The program is compiled and run over the JDK 19 version.
 
-First go to src file and follow the commands:
+First, go to the src file and follow the commands:
 
+```bash
 javac Main.java 
-
 java Main ./data/map1.dat
+```
 
 The game will start and you can move the player with simple direction buttons.
 
-Moreover, in order to kill enemies you can fire the bullets with space button.
+Moreover, to kill enemies you can fire the bullets with a space button.
 
-If you will die or collect all the powerups, the game will be restart.
+If you die or collect all the power-ups, the game will be restarted.
 
 Enjoy the game!
